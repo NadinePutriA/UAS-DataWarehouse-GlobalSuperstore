@@ -1,0 +1,13 @@
+Ship Mode,Order Priority
+Same Day,Critical
+Second Class,Critical
+First Class,Medium
+First Class,Critical
+Standard Class,High
+Standard Class,Low
+Second Class,High
+First Class,High
+Same Day,High
+Second Class,Medium
+Standard Class,Medium
+Same Day,Medium
